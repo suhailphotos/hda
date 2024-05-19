@@ -12,6 +12,11 @@ __pycache__/
 #.backup
 .backup
 
+#Houdini Contexts
+.lop_*
+.sop_*
+.object_*
+
 # Distribution / packaging
 .Python
 build/
