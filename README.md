@@ -3,16 +3,6 @@
 This repository is dedicated to storing and managing Houdini Digital Assets (HDAs) using Git version control.
 
 ## Folder Structure
-HDA/
-│
-├── HDAs/                               # Directory for HDAs (tracked by Git)
-│   ├── Grid2Hemisphere.hda
-│   └── .Grid2Hemisphere/               # Directory named after the HDA
-│       ├── Grid2Hemisphere.hip         # Scene file
-│       └── .Backup/                    # Hidden backup directory for the scene file
-│           └── Grid2Hemisphere_backup1.hip   # Backup of the scene file
-│
-└── README.md                           # Project README file
 
 
 - **HDAs/**: This directory contains the HDAs (Houdini Digital Assets) tracked by Git.
